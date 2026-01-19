@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923639657340",
+    "project_id": "agenda-dev-298ae",
+    "storage_bucket": "agenda-dev-298ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923639657340:android:948c9c4b7476a6e40e2af9",
+        "android_client_info": {
+          "package_name": "com.example.agenda_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa8-E_18d_E3Ls75OJu13XGz2VfV9WRes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
